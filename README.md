@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Starley Igbinomwhaia Briggs</h1>
-<h3 align="center">a passionate software engineer from Holland</h3>
+<h3 align="center">a passionate software engineer from the Netherlands</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/80aebbcb-6b50-4d51-b028-c51636dd09f7">
 
