@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me: 
   <p align="left">
-    <a href="https://linkedin.com/in/starley igbinomwhaia briggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starley igbinomwhaia briggs" height="30" width="40" /></a>
+    <a href="[https://linkedin.com/in/starley-igbinomwhaia-briggs](https://www.linkedin.com/in/starley-igbinomwhaia-briggs-a851432aa/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starley igbinomwhaia briggs" height="30" width="40" /></a>
   </p>
 </h3>
 
