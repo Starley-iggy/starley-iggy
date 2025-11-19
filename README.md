@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starley-iggy&label=Profile%20views&color=0e75b6&style=flat" alt="starley-iggy" /> </p>
 
-- 🔭 I’m currently working on **a Python Mediapipeline project**
+- 🔭 I’m currently working on **a Python Media pipeline project**
 
 - 👯 I’m looking to collaborate on **Musea game**
 
