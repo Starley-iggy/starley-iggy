@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starley-iggy&label=Profile%20views&color=0e75b6&style=flat" alt="starley-iggy" /> </p>
 
-- 🔭 I’m currently working on ** a Python chatbot**
+- 🔭 I’m currently working on **a Python Mediapipeline project**
 
 - 👯 I’m looking to collaborate on **Musea game**
 
-- ⚡ Fun fact **I am a huge Philosophy fan **
+- ⚡ Fun fact **I am a huge Philosophy fan**
 
 
 <h3 align="left">Connect with me: 
