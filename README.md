@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am a huge Philosophy fan**
 
-- 👨‍💻 My portfolio [https://starley-lac.vercel.app/](https://starley-lac.vercel.app/)
+- 👨‍💻 My portfolio and CV [https://starley-lac.vercel.app/](https://starley-lac.vercel.app/)
 
 - 📫 How to reach me **starleybriggs4@gmail.com**
 
