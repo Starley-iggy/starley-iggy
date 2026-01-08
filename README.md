@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **starleybriggs4@gmail.com**
 
+- 📰 Newsarticle https://www.actiefonline.nl/nieuws/algemeen/67989/stap-in-het-leven-van-bonifatius
+
 
 <h3 align="left">Connect with me: 
   <p align="left">
