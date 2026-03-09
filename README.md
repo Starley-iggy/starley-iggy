@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starley-iggy&label=Profile%20views&color=0e75b6&style=flat" alt="starley-iggy" /> </p>
 
-- 🔭 I’m currently working on **my own version of Duolingo so i can learn French without ads**
+- 🔭 I’m currently working on **my own version of Duolingo so I can learn French without ads**
 
 - 👯 I’m looking to collaborate on **Musea game**
 
