@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my own version of Duolingo so I can learn French without ads**
 
-- 👯 I’m looking to collaborate on **Musea game**
+- 👯 I’m looking to collaborate on **Edo learn webapp, an application where i furtherlearn my tribal nigerian language**
 
 - ⚡ Fun fact **I am a huge Philosophy fan**
 
